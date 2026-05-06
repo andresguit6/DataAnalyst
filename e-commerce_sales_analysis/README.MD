@@ -25,4 +25,4 @@ https://app.powerbi.com/view?r=eyJrIjoiNGNjNTg5Y2YtM2E3Ni00NDUyLTk4OWEtYTBmYmZhM
 
 
 ## 🖥️ Vista Previa del Dashboard
-
+![image alt](https://github.com/andresguit6/DataAnalyst/blob/61335b8ad749a26a5f13c5c288d39f64ddf07ba2/e-commerce_sales_analysis/reporte%20bi.png)
