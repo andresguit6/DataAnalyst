@@ -1,0 +1,93 @@
+Respuestas basadas en el dashboard
+¿Qué categoría de producto vende más?
+
+La categoría con más ventas es Electronics, con aproximadamente 5,3 millones en ventas.
+Le sigue Accessories con 4,2 millones, mientras que Office tiene el menor volumen con 1,1 millones.
+
+__________________________________________________________________________________________________________
+
+¿Qué región genera la mayor ganancia?
+
+La región con mayor ganancia es West, con alrededor de 0,46 millones de profit.
+
+Ranking de ganancias por región:
+
+West → 0,46 mill.
+East → 0,43 mill.
+South → 0,42 mill.
+North → 0,39 mill.
+
+__________________________________________________________________________________________________________
+
+¿Cómo cambian las ventas a lo largo del tiempo?
+
+Las ventas muestran un crecimiento entre 2022 y 2023, seguido de una ligera caída en 2024:
+
+2022 → 3,3 millones
+2023 → 3,8 millones
+2024 → 3,6 millones
+
+Esto indica:
+
+crecimiento inicial del negocio,
+luego una pequeña desaceleración,
+aunque las ventas siguen siendo altas respecto a 2022.
+
+__________________________________________________________________________________________________________
+
+¿Las altas ventas siempre significan altas ganancias?
+
+No necesariamente.
+
+Aunque algunos productos tienen ventas altas, las ganancias no crecen en la misma proporción. Por ejemplo:
+
+Camera tiene ventas cercanas a 1,18 millones pero ganancias de solo 0,20 millones.
+Otros productos tienen ventas similares pero márgenes menores.
+
+Esto sugiere:
+
+-costos altos.
+-descuentos.
+-márgenes de ganancia reducidos en ciertos productos.
+
+__________________________________________________________________________________________________________
+
+¿Qué región es más valiosa para el negocio?
+
+La región más valiosa parece ser West, porque:
+
+genera la mayor ganancia,
+mantiene buen rendimiento general,
+y aporta más profit que las demás regiones.
+Insights adicionales 📈
+Categoría más rentable
+
+Además de ser la más vendida, Electronics también es la categoría con mayor ganancia:
+
+Profit ≈ 0,85 millones
+
+Esto indica que:
+
+tiene alta demanda,
+y también buenos márgenes de rentabilidad.
+Categoría menos rentable
+
+Office:
+
+ventas bajas,
+ganancias muy pequeñas (~0,17 millones).
+
+Podría requerir:
+
+revisar precios,
+reducir costos,
+o replantear la estrategia comercial.
+Rendimiento general del negocio
+
+Indicadores principales:
+
+Ventas totales → 10,668 millones
+Ganancia total → 1,693 millones
+Margen de ganancia → 15,87%
+
+Un margen cercano al 16% indica un negocio rentable y relativamente saludable.

@@ -1,0 +1,34 @@
+Descripción general 📑
+
+Este conjunto de datos contiene registros de transacciones en línea que muestran cómo se venden los productos en diferentes regiones a lo largo del tiempo. Ayuda a analizar el rendimiento de ventas, la rentabilidad y las tendencias de demanda por categoría en un negocio de comercio electrónico. También muestra la relación del desempeño de ventas a lo largo del tiempo.
+
+Este conjunto de datos fue generado sintéticamente para analizar tendencias de negocio con el paso del tiempo.
+
+Contiene:
+
+3500 registros
+7 atributos
+Este conjunto de datos es principalmente útil para:
+Análisis de categorías 📊
+Categorías de productos con mejor rendimiento
+Categorías con baja ganancia a pesar de tener altas ventas
+Análisis regional 📉
+Regiones con mayores ventas
+Regiones que generan pérdidas
+Oportunidades de expansión de mercado
+Análisis de rentabilidad 📈
+Comparar ventas vs ganancias
+Detectar transacciones que generan pérdidas
+Comprender la sostenibilidad del negocio
+Posibles insights 📑
+
+Este conjunto de datos se enfoca en responder preguntas importantes de negocio, tales como:
+
+¿Qué categoría de producto vende más?
+¿Qué región genera la mayor ganancia?
+¿Cómo cambian las ventas a lo largo del tiempo?
+¿Las altas ventas siempre significan altas ganancias?
+¿Los descuentos o precios afectan la ganancia?
+¿Qué región es la más valiosa para el negocio?
+
+https://www.kaggle.com/datasets/datacodex/e-commerce-sales-data/data
